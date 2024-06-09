@@ -3,7 +3,7 @@
     "company_name": "Green Earth Recycling",
     "lat": 37.7749,
     "long": -122.4194,
-    "image": "https://example.com/images/green_earth_recycling.jpg",
+    "image": "https://via.placeholder.com/150?text=Green+Earth+Recycling",
     "mobile": "123-456-7890",
     "address": "123 Green St, San Francisco, CA",
     "email": "contact@greenearth.com"
@@ -12,7 +12,7 @@
     "company_name": "EcoCycle Solutions",
     "lat": 34.0522,
     "long": -118.2437,
-    "image": "https://example.com/images/ecocycle_solutions.jpg",
+    "image": "https://via.placeholder.com/150?text=EcoCycle+Solutions",
     "mobile": "234-567-8901",
     "address": "456 Eco Ave, Los Angeles, CA",
     "email": "info@ecocycle.com"
@@ -21,7 +21,7 @@
     "company_name": "Recycle Pro Services",
     "lat": 40.7128,
     "long": -74.0060,
-    "image": "https://example.com/images/recycle_pro_services.jpg",
+    "image": "https://via.placeholder.com/150?text=Recycle+Pro+Services",
     "mobile": "345-678-9012",
     "address": "789 Recycle Blvd, New York, NY",
     "email": "support@recyclepro.com"
@@ -30,7 +30,7 @@
     "company_name": "GreenWave Recycling",
     "lat": 41.8781,
     "long": -87.6298,
-    "image": "https://example.com/images/greenwave_recycling.jpg",
+    "image": "https://via.placeholder.com/150?text=GreenWave+Recycling",
     "mobile": "456-789-0123",
     "address": "101 Wave St, Chicago, IL",
     "email": "hello@greenwave.com"
@@ -39,7 +39,7 @@
     "company_name": "Sustainable Waste Management",
     "lat": 29.7604,
     "long": -95.3698,
-    "image": "https://example.com/images/sustainable_waste_management.jpg",
+    "image": "https://via.placeholder.com/150?text=Sustainable+Waste+Management",
     "mobile": "567-890-1234",
     "address": "202 Green Ln, Houston, TX",
     "email": "contact@sustainablewaste.com"
@@ -48,7 +48,7 @@
     "company_name": "EarthCare Recyclers",
     "lat": 39.7392,
     "long": -104.9903,
-    "image": "https://example.com/images/earthcare_recyclers.jpg",
+    "image": "https://via.placeholder.com/150?text=EarthCare+Recyclers",
     "mobile": "678-901-2345",
     "address": "303 Care Dr, Denver, CO",
     "email": "info@earthcare.com"
@@ -57,7 +57,7 @@
     "company_name": "CleanPlanet Recycling",
     "lat": 34.0522,
     "long": -118.2437,
-    "image": "https://example.com/images/cleanplanet_recycling.jpg",
+    "image": "https://via.placeholder.com/150?text=CleanPlanet+Recycling",
     "mobile": "789-012-3456",
     "address": "404 Planet Blvd, Los Angeles, CA",
     "email": "support@cleanplanet.com"
@@ -66,7 +66,7 @@
     "company_name": "Green Horizon Services",
     "lat": 51.5074,
     "long": -0.1278,
-    "image": "https://example.com/images/green_horizon_services.jpg",
+    "image": "https://via.placeholder.com/150?text=Green+Horizon+Services",
     "mobile": "890-123-4567",
     "address": "505 Horizon St, London, UK",
     "email": "hello@greenhorizon.com"
@@ -75,7 +75,7 @@
     "company_name": "EcoWise Recycling",
     "lat": 48.8566,
     "long": 2.3522,
-    "image": "https://example.com/images/ecowise_recycling.jpg",
+    "image": "https://via.placeholder.com/150?text=EcoWise+Recycling",
     "mobile": "901-234-5678",
     "address": "606 Wise Ln, Paris, France",
     "email": "contact@ecowise.com"
@@ -84,7 +84,7 @@
     "company_name": "Recycle Right Inc",
     "lat": 35.6895,
     "long": 139.6917,
-    "image": "https://example.com/images/recycle_right_inc.jpg",
+    "image": "https://via.placeholder.com/150?text=Recycle+Right+Inc",
     "mobile": "012-345-6789",
     "address": "707 Right St, Tokyo, Japan",
     "email": "info@recycleright.com"
@@ -93,7 +93,7 @@
     "company_name": "EnviroGuard Recycling",
     "lat": 37.7749,
     "long": -122.4194,
-    "image": "https://example.com/images/enviroguard_recycling.jpg",
+    "image": "https://via.placeholder.com/150?text=EnviroGuard+Recycling",
     "mobile": "123-456-7890",
     "address": "808 Guard Rd, San Francisco, CA",
     "email": "support@enviroguard.com"
@@ -102,7 +102,7 @@
     "company_name": "RenewCycle Services",
     "lat": 34.0522,
     "long": -118.2437,
-    "image": "https://example.com/images/renewcycle_services.jpg",
+    "image": "https://via.placeholder.com/150?text=RenewCycle+Services",
     "mobile": "234-567-8901",
     "address": "909 Renew Ave, Los Angeles, CA",
     "email": "hello@renewcycle.com"
@@ -111,7 +111,7 @@
     "company_name": "ZeroWaste Recyclers",
     "lat": 40.7128,
     "long": -74.0060,
-    "image": "https://example.com/images/zerowaste_recyclers.jpg",
+    "image": "https://via.placeholder.com/150?text=ZeroWaste+Recyclers",
     "mobile": "345-678-9012",
     "address": "1010 Waste St, New York, NY",
     "email": "contact@zerowaste.com"
@@ -120,7 +120,7 @@
     "company_name": "EcoFriendly Waste Solutions",
     "lat": 41.8781,
     "long": -87.6298,
-    "image": "https://example.com/images/ecofriendly_waste_solutions.jpg",
+    "image": "https://via.placeholder.com/150?text=EcoFriendly+Waste+Solutions",
     "mobile": "456-789-0123",
     "address": "1111 Friendly Blvd, Chicago, IL",
     "email": "info@ecofriendly.com"
@@ -129,7 +129,7 @@
     "company_name": "CleanEarth Recycling",
     "lat": 29.7604,
     "long": -95.3698,
-    "image": "https://example.com/images/cleanearth_recycling.jpg",
+    "image": "https://via.placeholder.com/150?text=CleanEarth+Recycling",
     "mobile": "567-890-1234",
     "address": "1212 Earth Ln, Houston, TX",
     "email": "support@cleanearth.com"
@@ -138,7 +138,7 @@
     "company_name": "GreenCycle Recyclers",
     "lat": 39.7392,
     "long": -104.9903,
-    "image": "https://example.com/images/greencycle_recyclers.jpg",
+    "image": "https://via.placeholder.com/150?text=GreenCycle+Recyclers",
     "mobile": "678-901-2345",
     "address": "1313 Cycle Dr, Denver, CO",
     "email": "hello@greencycle.com"
@@ -147,7 +147,7 @@
     "company_name": "EcoGuard Solutions",
     "lat": 34.0522,
     "long": -118.2437,
-    "image": "https://example.com/images/ecoguard_solutions.jpg",
+    "image": "https://via.placeholder.com/150?text=EcoGuard+Solutions",
     "mobile": "789-012-3456",
     "address": "1414 Guard St, Los Angeles, CA",
     "email": "contact@ecoguard.com"
@@ -156,7 +156,7 @@
     "company_name": "PurePlanet Recycling",
     "lat": 51.5074,
     "long": -0.1278,
-    "image": "https://example.com/images/pureplanet_recycling.jpg",
+    "image": "https://via.placeholder.com/150?text=PurePlanet+Recycling",
     "mobile": "890-123-4567",
     "address": "1515 Planet Blvd, London, UK",
     "email": "info@pureplanet.com"
@@ -165,7 +165,7 @@
     "company_name": "RecycleNow Services",
     "lat": 48.8566,
     "long": 2.3522,
-    "image": "https://example.com/images/recyclenow_services.jpg",
+    "image": "https://via.placeholder.com/150?text=RecycleNow+Services",
     "mobile": "901-234-5678",
     "address": "1616 Now Ln, Paris, France",
     "email": "support@recyclenow.com"
@@ -174,7 +174,7 @@
     "company_name": "GreenTech Recycling",
     "lat": 35.6895,
     "long": 139.6917,
-    "image": "https://example.com/images/greentech_recycling.jpg",
+    "image": "https://via.placeholder.com/150?text=GreenTech+Recycling",
     "mobile": "012-345-6789",
     "address": "1717 Tech St, Tokyo, Japan",
     "email": "hello@greentech.com"
