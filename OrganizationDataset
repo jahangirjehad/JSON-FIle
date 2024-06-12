@@ -1,6 +1,5 @@
 [
   {
-    "organization": {
       "name": "EcoWarriors",
       "title": "Protecting the environment, one step at a time",
       "member": 120,
@@ -40,10 +39,10 @@
             }
           ]
         },
-    }
+    
   },
   {
-    "organization": {
+    
       "name": "CleanTech Solutions",
       "title": "Innovating for a sustainable future",
       "member": 75,
@@ -84,10 +83,10 @@
           ]
         },
         
-    }
+    
   },
   {
-    "organization": {
+    
       "name": "Green Earth",
       "title": "Promoting eco-friendly practices",
       "member": 150,
@@ -129,10 +128,10 @@
         },
         
       ]
-    }
+    
   },
   {
-    "organization": {
+    
       "name": "Sustainable Futures",
       "title": "Building a better tomorrow",
       "member": 90,
@@ -174,10 +173,10 @@
         },
         
       
-    }
+    
   },
   {
-    "organization": {
+    
       "name": "GreenTech Innovators",
       "title": "Technology for a greener world",
       "member": 85,
@@ -219,10 +218,10 @@
         },
         
       
-    }
+    
   },
   {
-    "organization": {
+    
       "name": "Future Green",
       "title": "Envisioning a greener future",
       "member": 110,
@@ -264,10 +263,10 @@
         },
         
       
-    }
+    
   },
   {
-    "organization": {
+    
       "name": "Renewable Pioneers",
       "title": "Advancing renewable energy",
       "member": 95,
@@ -309,10 +308,10 @@
         },
         
       
-    }
+    
   },
   {
-    "organization": {
+    
       "name": "Eco Innovators",
       "title": "Creating eco-friendly innovations",
       "member": 105,
@@ -353,10 +352,10 @@
           ]
         },
       
-    }
+    
   },
   {
-    "organization": {
+    
       "name": "Sustainable Innovations",
       "title": "Innovating for a sustainable future",
       "member": 125,
@@ -396,10 +395,10 @@
             }
           ]
         },
-    }
+    
   },
   {
-    "organization": {
+    
       "name": "EcoFuture",
       "title": "Sustainable living for all",
       "member": 100,
@@ -441,6 +440,6 @@
         },
         
       
-    }
+    
   }
 ]
