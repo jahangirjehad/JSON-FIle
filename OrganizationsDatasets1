@@ -4,6 +4,29 @@
     "title": "Protecting the environment, one step at a time",
     "member": 120,
     "totalPost": 95,
+    "post":[
+     {
+    "postDate": "June 13, 2024 14:00",
+    "statusText": "This is a sample status update.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 0,
+    "comments": 5
+  },
+  {
+    "postDate": "June 12, 2024 09:30",
+    "statusText": "Another status update goes here.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 3,
+    "comments": 2
+  },
+  {
+    "postDate": "June 11, 2024 16:45",
+    "statusText": "Loving the sunny weather today!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 10,
+    "comments": 1
+  },
+    ],
     "meetings": {
       "meetings": [
         {
@@ -44,6 +67,29 @@
     "title": "Innovating for a sustainable future",
     "member": 75,
     "totalPost": 65,
+    "post":[
+    {
+    "postDate": "June 10, 2024 08:00",
+    "statusText": "Excited for the upcoming event.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 25,
+    "comments": 7
+  },
+  {
+    "postDate": "June 09, 2024 12:15",
+    "statusText": "Working on a new project, stay tuned!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 8,
+    "comments": 4
+  },
+  {
+    "postDate": "June 08, 2024 11:00",
+    "statusText": "Had a great meeting with the team today.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 15,
+    "comments": 6
+  },
+    ]
     "meetings": {
       "meetings": [
         {
@@ -76,7 +122,7 @@
           "place": "Rajshahi",
           "zoomLink": "https://zoom.us/j/246579813"
         }
-      ]
+      ],
     }
   },
   {
@@ -84,6 +130,36 @@
     "title": "Promoting eco-friendly practices",
     "member": 150,
     "totalPost": 120,
+    "post":[
+      {
+    "postDate": "June 07, 2024 14:30",
+    "statusText": "Just posted a new blog article. Check it out!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 12,
+    "comments": 3
+  },
+  {
+    "postDate": "June 06, 2024 17:45",
+    "statusText": "Enjoying some quality family time.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 20,
+    "comments": 2
+  },
+  {
+    "postDate": "June 05, 2024 10:00",
+    "statusText": "Just reached 1,000 followers! Thank you all!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 50,
+    "comments": 10
+  },
+  {
+    "postDate": "June 04, 2024 09:00",
+    "statusText": "Feeling motivated and ready to take on new challenges.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 18,
+    "comments": 5
+  }
+    ],
     "meetings": {
       "meetings": [
         {
@@ -124,6 +200,36 @@
     "title": "Building a better tomorrow",
     "member": 90,
     "totalPost": 80,
+    "post":[
+      {
+    "postDate": "June 07, 2024 14:30",
+    "statusText": "Just posted a new blog article. Check it out!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 12,
+    "comments": 3
+  },
+  {
+    "postDate": "June 06, 2024 17:45",
+    "statusText": "Enjoying some quality family time.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 20,
+    "comments": 2
+  },
+  {
+    "postDate": "June 05, 2024 10:00",
+    "statusText": "Just reached 1,000 followers! Thank you all!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 50,
+    "comments": 10
+  },
+  {
+    "postDate": "June 04, 2024 09:00",
+    "statusText": "Feeling motivated and ready to take on new challenges.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 18,
+    "comments": 5
+  }
+    ],
     "meetings": {
       "meetings": [
         {
@@ -164,6 +270,36 @@
     "title": "Technology for a greener world",
     "member": 85,
     "totalPost": 70,
+"post":[
+      {
+    "postDate": "June 07, 2024 14:30",
+    "statusText": "Just posted a new blog article. Check it out!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 12,
+    "comments": 3
+  },
+  {
+    "postDate": "June 06, 2024 17:45",
+    "statusText": "Enjoying some quality family time.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 20,
+    "comments": 2
+  },
+  {
+    "postDate": "June 05, 2024 10:00",
+    "statusText": "Just reached 1,000 followers! Thank you all!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 50,
+    "comments": 10
+  },
+  {
+    "postDate": "June 04, 2024 09:00",
+    "statusText": "Feeling motivated and ready to take on new challenges.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 18,
+    "comments": 5
+  }
+    ],
     "meetings": {
       "meetings": [
         {
@@ -204,6 +340,36 @@
     "title": "Envisioning a greener future",
     "member": 110,
     "totalPost": 100,
+"post":[
+      {
+    "postDate": "June 07, 2024 14:30",
+    "statusText": "Just posted a new blog article. Check it out!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 12,
+    "comments": 3
+  },
+  {
+    "postDate": "June 06, 2024 17:45",
+    "statusText": "Enjoying some quality family time.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 20,
+    "comments": 2
+  },
+  {
+    "postDate": "June 05, 2024 10:00",
+    "statusText": "Just reached 1,000 followers! Thank you all!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 50,
+    "comments": 10
+  },
+  {
+    "postDate": "June 04, 2024 09:00",
+    "statusText": "Feeling motivated and ready to take on new challenges.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 18,
+    "comments": 5
+  }
+    ],
     "meetings": {
       "meetings": [
         {
@@ -244,6 +410,36 @@
     "title": "Advancing renewable energy",
     "member": 95,
     "totalPost": 85,
+"post":[
+      {
+    "postDate": "June 07, 2024 14:30",
+    "statusText": "Just posted a new blog article. Check it out!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 12,
+    "comments": 3
+  },
+  {
+    "postDate": "June 06, 2024 17:45",
+    "statusText": "Enjoying some quality family time.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 20,
+    "comments": 2
+  },
+  {
+    "postDate": "June 05, 2024 10:00",
+    "statusText": "Just reached 1,000 followers! Thank you all!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 50,
+    "comments": 10
+  },
+  {
+    "postDate": "June 04, 2024 09:00",
+    "statusText": "Feeling motivated and ready to take on new challenges.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 18,
+    "comments": 5
+  }
+    ],
     "meetings": {
       "meetings": [
         {
@@ -284,6 +480,36 @@
     "title": "Creating eco-friendly innovations",
     "member": 105,
     "totalPost": 95,
+"post":[
+      {
+    "postDate": "June 07, 2024 14:30",
+    "statusText": "Just posted a new blog article. Check it out!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 12,
+    "comments": 3
+  },
+  {
+    "postDate": "June 06, 2024 17:45",
+    "statusText": "Enjoying some quality family time.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 20,
+    "comments": 2
+  },
+  {
+    "postDate": "June 05, 2024 10:00",
+    "statusText": "Just reached 1,000 followers! Thank you all!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 50,
+    "comments": 10
+  },
+  {
+    "postDate": "June 04, 2024 09:00",
+    "statusText": "Feeling motivated and ready to take on new challenges.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 18,
+    "comments": 5
+  }
+    ],
     "meetings": {
       "meetings": [
         {
@@ -324,6 +550,36 @@
     "title": "Innovating for a sustainable future",
     "member": 125,
     "totalPost": 105,
+"post":[
+      {
+    "postDate": "June 07, 2024 14:30",
+    "statusText": "Just posted a new blog article. Check it out!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 12,
+    "comments": 3
+  },
+  {
+    "postDate": "June 06, 2024 17:45",
+    "statusText": "Enjoying some quality family time.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 20,
+    "comments": 2
+  },
+  {
+    "postDate": "June 05, 2024 10:00",
+    "statusText": "Just reached 1,000 followers! Thank you all!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 50,
+    "comments": 10
+  },
+  {
+    "postDate": "June 04, 2024 09:00",
+    "statusText": "Feeling motivated and ready to take on new challenges.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 18,
+    "comments": 5
+  }
+    ],
     "meetings": {
       "meetings": [
         {
@@ -364,6 +620,36 @@
     "title": "Sustainable living for all",
     "member": 100,
     "totalPost": 90,
+"post":[
+      {
+    "postDate": "June 07, 2024 14:30",
+    "statusText": "Just posted a new blog article. Check it out!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 12,
+    "comments": 3
+  },
+  {
+    "postDate": "June 06, 2024 17:45",
+    "statusText": "Enjoying some quality family time.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 20,
+    "comments": 2
+  },
+  {
+    "postDate": "June 05, 2024 10:00",
+    "statusText": "Just reached 1,000 followers! Thank you all!",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 50,
+    "comments": 10
+  },
+  {
+    "postDate": "June 04, 2024 09:00",
+    "statusText": "Feeling motivated and ready to take on new challenges.",
+    "statusImage": "https://via.placeholder.com/150",
+    "likes": 18,
+    "comments": 5
+  }
+    ],
     "meetings": {
       "meetings": [
         {
