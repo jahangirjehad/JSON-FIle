@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Product 1",
+    "price": "$100",
+    "image": "https://example.com/product1.jpg",
+    "SellerID": "Seller1",
+    "description": "Description of Product 1",
+    "lat": 40.7128,
+    "long": -74.0060
+  },
+  {
+    "name": "Product 2",
+    "price": "$200",
+    "image": "https://example.com/product2.jpg",
+    "SellerID": "Seller2",
+    "description": "Description of Product 2",
+    "lat": 34.0522,
+    "long": -118.2437
+  },
+  {
+    "name": "Product 3",
+    "price": "$150",
+    "image": "https://example.com/product3.jpg",
+    "SellerID": "Seller3",
+    "description": "Description of Product 3",
+    "lat": 51.5074,
+    "long": -0.1278
+  },
+  {
+    "name": "Product 4",
+    "price": "$300",
+    "image": "https://example.com/product4.jpg",
+    "SellerID": "Seller4",
+    "description": "Description of Product 4",
+    "lat": 48.8566,
+    "long": 2.3522
+  }
+]
