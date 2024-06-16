@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "New Message",
+    "subtitle": "You have received a new message from John Doe.",
+    "time": "2 hours ago",
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "title": "Friend Request",
+    "subtitle": "John Smith sent you a friend request.",
+    "time": "3 hours ago",
+    "isRead": true
+  },
+  {
+    "id": 3,
+    "title": "Event Reminder",
+    "subtitle": "Reminder: Tomorrow is your friend's birthday.",
+    "time": "1 day ago",
+    "isRead": false
+  }
+]
