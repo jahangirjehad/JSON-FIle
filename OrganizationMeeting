@@ -3,162 +3,140 @@
   "meetings": [
     {
       "meeting_title": "Monthly Planning Meeting - January",
+      "date": "2024-01-15T10:00:00Z",
       "total_present": 8,
       "total_absent": 2,
       "total_members": 10,
       "presented_members": [
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eva",
-        "Frank",
-        "Grace",
-        "Hannah"
+        "Alice", "Bob", "Charlie", "David", "Eva", "Frank", "Grace", "Hannah"
       ],
-      "absent_members": [
-        "Ian",
-        "Jane"
+      "absent_members": ["Ian", "Jane"],
+      "duration_minutes": 90,
+      "location": "Conference Room A",
+      "key_decisions": [
+        "Approved budget for Q1",
+        "Set targets for waste reduction"
       ]
     },
     {
       "meeting_title": "Strategy Session - February",
+      "date": "2024-02-20T14:00:00Z",
       "total_present": 9,
       "total_absent": 1,
       "total_members": 10,
       "presented_members": [
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eva",
-        "Frank",
-        "Grace",
-        "Hannah",
-        "Ian"
+        "Alice", "Bob", "Charlie", "David", "Eva", "Frank", "Grace", "Hannah", "Ian"
       ],
-      "absent_members": [
-        "Jane"
+      "absent_members": ["Jane"],
+      "duration_minutes": 120,
+      "location": "Virtual Meeting",
+      "key_decisions": [
+        "Launched new community outreach program",
+        "Approved partnership with local schools"
       ]
     },
     {
       "meeting_title": "Mid-Year Review - March",
+      "date": "2024-03-18T09:30:00Z",
       "total_present": 7,
       "total_absent": 3,
       "total_members": 10,
       "presented_members": [
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eva",
-        "Frank",
-        "Grace"
+        "Alice", "Bob", "Charlie", "David", "Eva", "Frank", "Grace"
       ],
-      "absent_members": [
-        "Hannah",
-        "Ian",
-        "Jane"
+      "absent_members": ["Hannah", "Ian", "Jane"],
+      "duration_minutes": 150,
+      "location": "Conference Room B",
+      "key_decisions": [
+        "Revised annual goals",
+        "Approved budget for new equipment"
       ]
     },
     {
       "meeting_title": "Quarterly Strategy Meeting - April",
+      "date": "2024-04-22T13:00:00Z",
       "total_present": 6,
       "total_absent": 4,
       "total_members": 10,
       "presented_members": [
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eva",
-        "Frank"
+        "Alice", "Bob", "Charlie", "David", "Eva", "Frank"
       ],
-      "absent_members": [
-        "Grace",
-        "Hannah",
-        "Ian",
-        "Jane"
+      "absent_members": ["Grace", "Hannah", "Ian", "Jane"],
+      "duration_minutes": 180,
+      "location": "Offsite Venue",
+      "key_decisions": [
+        "Initiated new recycling campaign",
+        "Approved hiring of two new staff members"
       ]
     },
     {
       "meeting_title": "Project Kickoff - May",
+      "date": "2024-05-10T11:00:00Z",
       "total_present": 9,
       "total_absent": 1,
       "total_members": 10,
       "presented_members": [
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eva",
-        "Frank",
-        "Grace",
-        "Hannah",
-        "Jane"
+        "Alice", "Bob", "Charlie", "David", "Eva", "Frank", "Grace", "Hannah", "Jane"
       ],
-      "absent_members": [
-        "Ian"
+      "absent_members": ["Ian"],
+      "duration_minutes": 60,
+      "location": "Conference Room A",
+      "key_decisions": [
+        "Assigned roles for new city-wide clean-up project",
+        "Set project milestones and deadlines"
       ]
     },
     {
       "meeting_title": "Mid-Year Review - June",
+      "date": "2024-06-14T15:30:00Z",
       "total_present": 8,
       "total_absent": 2,
       "total_members": 10,
       "presented_members": [
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eva",
-        "Frank",
-        "Grace",
-        "Hannah"
+        "Alice", "Bob", "Charlie", "David", "Eva", "Frank", "Grace", "Hannah"
       ],
-      "absent_members": [
-        "Ian",
-        "Jane"
+      "absent_members": ["Ian", "Jane"],
+      "duration_minutes": 120,
+      "location": "Virtual Meeting",
+      "key_decisions": [
+        "Reviewed progress on annual goals",
+        "Approved budget adjustments for Q3 and Q4"
       ]
     },
     {
       "meeting_title": "Monthly Planning Meeting - July",
+      "date": "2024-07-08T10:00:00Z",
       "total_present": 7,
       "total_absent": 3,
       "total_members": 10,
       "presented_members": [
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eva",
-        "Frank",
-        "Grace"
+        "Alice", "Bob", "Charlie", "David", "Eva", "Frank", "Grace"
       ],
-      "absent_members": [
-        "Hannah",
-        "Ian",
-        "Jane"
+      "absent_members": ["Hannah", "Ian", "Jane"],
+      "duration_minutes": 90,
+      "location": "Conference Room B",
+      "key_decisions": [
+        "Planned summer volunteer recruitment drive",
+        "Approved new social media strategy"
       ]
     },
     {
       "meeting_title": "Annual General Meeting - August",
+      "date": "2024-08-25T09:00:00Z",
       "total_present": 10,
       "total_absent": 0,
       "total_members": 10,
       "presented_members": [
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eva",
-        "Frank",
-        "Grace",
-        "Hannah",
-        "Ian",
-        "Jane"
+        "Alice", "Bob", "Charlie", "David", "Eva", "Frank", "Grace", "Hannah", "Ian", "Jane"
       ],
-      "absent_members": []
+      "absent_members": [],
+      "duration_minutes": 240,
+      "location": "City Hall Auditorium",
+      "key_decisions": [
+        "Elected new board members",
+        "Approved annual report and financial statements",
+        "Set strategic direction for the coming year"
+      ]
     }
   ]
 }
