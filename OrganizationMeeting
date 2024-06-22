@@ -1,0 +1,164 @@
+{
+  "organization": "BD CLEAN Meeting",
+  "meetings": [
+    {
+      "meeting_title": "Monthly Planning Meeting - January",
+      "total_present": 8,
+      "total_absent": 2,
+      "total_members": 10,
+      "presented_members": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Eva",
+        "Frank",
+        "Grace",
+        "Hannah"
+      ],
+      "absent_members": [
+        "Ian",
+        "Jane"
+      ]
+    },
+    {
+      "meeting_title": "Strategy Session - February",
+      "total_present": 9,
+      "total_absent": 1,
+      "total_members": 10,
+      "presented_members": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Eva",
+        "Frank",
+        "Grace",
+        "Hannah",
+        "Ian"
+      ],
+      "absent_members": [
+        "Jane"
+      ]
+    },
+    {
+      "meeting_title": "Mid-Year Review - March",
+      "total_present": 7,
+      "total_absent": 3,
+      "total_members": 10,
+      "presented_members": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Eva",
+        "Frank",
+        "Grace"
+      ],
+      "absent_members": [
+        "Hannah",
+        "Ian",
+        "Jane"
+      ]
+    },
+    {
+      "meeting_title": "Quarterly Strategy Meeting - April",
+      "total_present": 6,
+      "total_absent": 4,
+      "total_members": 10,
+      "presented_members": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Eva",
+        "Frank"
+      ],
+      "absent_members": [
+        "Grace",
+        "Hannah",
+        "Ian",
+        "Jane"
+      ]
+    },
+    {
+      "meeting_title": "Project Kickoff - May",
+      "total_present": 9,
+      "total_absent": 1,
+      "total_members": 10,
+      "presented_members": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Eva",
+        "Frank",
+        "Grace",
+        "Hannah",
+        "Jane"
+      ],
+      "absent_members": [
+        "Ian"
+      ]
+    },
+    {
+      "meeting_title": "Mid-Year Review - June",
+      "total_present": 8,
+      "total_absent": 2,
+      "total_members": 10,
+      "presented_members": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Eva",
+        "Frank",
+        "Grace",
+        "Hannah"
+      ],
+      "absent_members": [
+        "Ian",
+        "Jane"
+      ]
+    },
+    {
+      "meeting_title": "Monthly Planning Meeting - July",
+      "total_present": 7,
+      "total_absent": 3,
+      "total_members": 10,
+      "presented_members": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Eva",
+        "Frank",
+        "Grace"
+      ],
+      "absent_members": [
+        "Hannah",
+        "Ian",
+        "Jane"
+      ]
+    },
+    {
+      "meeting_title": "Annual General Meeting - August",
+      "total_present": 10,
+      "total_absent": 0,
+      "total_members": 10,
+      "presented_members": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David",
+        "Eva",
+        "Frank",
+        "Grace",
+        "Hannah",
+        "Ian",
+        "Jane"
+      ],
+      "absent_members": []
+    }
+  ]
+}
