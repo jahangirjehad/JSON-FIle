@@ -1,182 +1,629 @@
+Sure, I will update the dataset so that all the companies are based in different locations within Chittagong. Each company will have salesmen in at least three locations with their contact details, and they will also have different categories of waste products to sell along with their prices in BDT.
+
+```json
 [
   {
     "company_name": "Green Earth Recycling",
-    "lat": 37.7749,
-    "long": -122.4194,
+    "lat": 22.3475,
+    "long": 91.8123,
     "image": "https://via.placeholder.com/150?text=Green+Earth+Recycling",
     "mobile": "123-456-7890",
-    "address": "123 Green St, San Francisco, CA",
-    "email": "contact@greenearth.com"
+    "address": "123 Agrabad Commercial Area, Chittagong, Bangladesh",
+    "email": "contact@greenearth.com",
+    "sales_locations": [
+      {
+        "location": "Pahartali",
+        "salesman": "John Doe",
+        "mobile": "01711-123456"
+      },
+      {
+        "location": "Chandgaon",
+        "salesman": "Jane Smith",
+        "mobile": "01712-234567"
+      },
+      {
+        "location": "Panchlaish",
+        "salesman": "Richard Roe",
+        "mobile": "01713-345678"
+      }
+    ],
+    "waste_categories": {
+      "plastic": "100 BDT/kg",
+      "metal": "200 BDT/kg",
+      "paper": "50 BDT/kg"
+    }
   },
   {
     "company_name": "EcoCycle Solutions",
-    "lat": 34.0522,
-    "long": -118.2437,
+    "lat": 22.3300,
+    "long": 91.8245,
     "image": "https://via.placeholder.com/150?text=EcoCycle+Solutions",
     "mobile": "234-567-8901",
-    "address": "456 Eco Ave, Los Angeles, CA",
-    "email": "info@ecocycle.com"
+    "address": "456 GEC Circle, Chittagong, Bangladesh",
+    "email": "info@ecocycle.com",
+    "sales_locations": [
+      {
+        "location": "Khulshi",
+        "salesman": "Alice Johnson",
+        "mobile": "01714-456789"
+      },
+      {
+        "location": "Bayezid",
+        "salesman": "Michael Brown",
+        "mobile": "01715-567890"
+      },
+      {
+        "location": "Nasirabad",
+        "salesman": "Emily Davis",
+        "mobile": "01716-678901"
+      }
+    ],
+    "waste_categories": {
+      "glass": "80 BDT/kg",
+      "electronic": "300 BDT/kg",
+      "organic": "20 BDT/kg"
+    }
   },
   {
     "company_name": "Recycle Pro Services",
-    "lat": 40.7128,
-    "long": -74.0060,
+    "lat": 22.3700,
+    "long": 91.8050,
     "image": "https://via.placeholder.com/150?text=Recycle+Pro+Services",
     "mobile": "345-678-9012",
-    "address": "789 Recycle Blvd, New York, NY",
-    "email": "support@recyclepro.com"
+    "address": "789 Kazir Dewri, Chittagong, Bangladesh",
+    "email": "support@recyclepro.com",
+    "sales_locations": [
+      {
+        "location": "Halishahar",
+        "salesman": "David Wilson",
+        "mobile": "01717-789012"
+      },
+      {
+        "location": "Patenga",
+        "salesman": "Olivia Martinez",
+        "mobile": "01718-890123"
+      },
+      {
+        "location": "EPZ",
+        "salesman": "James Anderson",
+        "mobile": "01719-901234"
+      }
+    ],
+    "waste_categories": {
+      "rubber": "120 BDT/kg",
+      "textile": "70 BDT/kg",
+      "wood": "60 BDT/kg"
+    }
   },
   {
     "company_name": "GreenWave Recycling",
-    "lat": 41.8781,
-    "long": -87.6298,
+    "lat": 22.3250,
+    "long": 91.8150,
     "image": "https://via.placeholder.com/150?text=GreenWave+Recycling",
     "mobile": "456-789-0123",
-    "address": "101 Wave St, Chicago, IL",
-    "email": "hello@greenwave.com"
+    "address": "101 Kotwali, Chittagong, Bangladesh",
+    "email": "hello@greenwave.com",
+    "sales_locations": [
+      {
+        "location": "Firingi Bazar",
+        "salesman": "Sophia Lee",
+        "mobile": "01720-123456"
+      },
+      {
+        "location": "Enayet Bazar",
+        "salesman": "Daniel White",
+        "mobile": "01721-234567"
+      },
+      {
+        "location": "Anderkilla",
+        "salesman": "Ella Harris",
+        "mobile": "01722-345678"
+      }
+    ],
+    "waste_categories": {
+      "plastic": "110 BDT/kg",
+      "metal": "210 BDT/kg",
+      "paper": "60 BDT/kg"
+    }
   },
   {
     "company_name": "Sustainable Waste Management",
-    "lat": 29.7604,
-    "long": -95.3698,
+    "lat": 22.3350,
+    "long": 91.8250,
     "image": "https://via.placeholder.com/150?text=Sustainable+Waste+Management",
     "mobile": "567-890-1234",
-    "address": "202 Green Ln, Houston, TX",
-    "email": "contact@sustainablewaste.com"
+    "address": "202 Jamal Khan Road, Chittagong, Bangladesh",
+    "email": "contact@sustainablewaste.com",
+    "sales_locations": [
+      {
+        "location": "Sholoshahar",
+        "salesman": "Isabella Clark",
+        "mobile": "01723-456789"
+      },
+      {
+        "location": "Bahaddarhat",
+        "salesman": "Henry Walker",
+        "mobile": "01724-567890"
+      },
+      {
+        "location": "Muradpur",
+        "salesman": "Mia Robinson",
+        "mobile": "01725-678901"
+      }
+    ],
+    "waste_categories": {
+      "glass": "90 BDT/kg",
+      "electronic": "320 BDT/kg",
+      "organic": "30 BDT/kg"
+    }
   },
   {
     "company_name": "EarthCare Recyclers",
-    "lat": 39.7392,
-    "long": -104.9903,
+    "lat": 22.3400,
+    "long": 91.8300,
     "image": "https://via.placeholder.com/150?text=EarthCare+Recyclers",
     "mobile": "678-901-2345",
-    "address": "303 Care Dr, Denver, CO",
-    "email": "info@earthcare.com"
+    "address": "303 Nandankanan, Chittagong, Bangladesh",
+    "email": "info@earthcare.com",
+    "sales_locations": [
+      {
+        "location": "Oxygen",
+        "salesman": "Ava Lewis",
+        "mobile": "01726-789012"
+      },
+      {
+        "location": "Lalkhan Bazar",
+        "salesman": "Jack King",
+        "mobile": "01727-890123"
+      },
+      {
+        "location": "Khulna",
+        "salesman": "Charlotte Scott",
+        "mobile": "01728-901234"
+      }
+    ],
+    "waste_categories": {
+      "rubber": "130 BDT/kg",
+      "textile": "80 BDT/kg",
+      "wood": "70 BDT/kg"
+    }
   },
   {
     "company_name": "CleanPlanet Recycling",
-    "lat": 34.0522,
-    "long": -118.2437,
+    "lat": 22.3150,
+    "long": 91.8000,
     "image": "https://via.placeholder.com/150?text=CleanPlanet+Recycling",
     "mobile": "789-012-3456",
-    "address": "404 Planet Blvd, Los Angeles, CA",
-    "email": "support@cleanplanet.com"
+    "address": "404 Sugandha, Chittagong, Bangladesh",
+    "email": "support@cleanplanet.com",
+    "sales_locations": [
+      {
+        "location": "Chawkbazar",
+        "salesman": "Lucas Allen",
+        "mobile": "01729-012345"
+      },
+      {
+        "location": "Bakalia",
+        "salesman": "Amelia Young",
+        "mobile": "01730-123456"
+      },
+      {
+        "location": "Chittagong University",
+        "salesman": "Ethan Wright",
+        "mobile": "01731-234567"
+      }
+    ],
+    "waste_categories": {
+      "plastic": "120 BDT/kg",
+      "metal": "220 BDT/kg",
+      "paper": "70 BDT/kg"
+    }
   },
   {
     "company_name": "Green Horizon Services",
-    "lat": 51.5074,
-    "long": -0.1278,
+    "lat": 22.3100,
+    "long": 91.7900,
     "image": "https://via.placeholder.com/150?text=Green+Horizon+Services",
     "mobile": "890-123-4567",
-    "address": "505 Horizon St, London, UK",
-    "email": "hello@greenhorizon.com"
+    "address": "505 Andarkilla, Chittagong, Bangladesh",
+    "email": "hello@greenhorizon.com",
+    "sales_locations": [
+      {
+        "location": "Kotwali",
+        "salesman": "Benjamin Hill",
+        "mobile": "01732-345678"
+      },
+      {
+        "location": "DC Hill",
+        "salesman": "Harper Adams",
+        "mobile": "01733-456789"
+      },
+      {
+        "location": "Tigerpass",
+        "salesman": "Evelyn Baker",
+        "mobile": "01734-567890"
+      }
+    ],
+    "waste_categories": {
+      "glass": "100 BDT/kg",
+      "electronic": "340 BDT/kg",
+      "organic": "40 BDT/kg"
+    }
   },
   {
     "company_name": "EcoWise Recycling",
-    "lat": 48.8566,
-    "long": 2.3522,
+    "lat": 22.3000,
+
+
+    "long": 91.7800,
     "image": "https://via.placeholder.com/150?text=EcoWise+Recycling",
     "mobile": "901-234-5678",
-    "address": "606 Wise Ln, Paris, France",
-    "email": "contact@ecowise.com"
+    "address": "606 College Road, Chittagong, Bangladesh",
+    "email": "contact@ecowise.com",
+    "sales_locations": [
+      {
+        "location": "Nasirabad",
+        "salesman": "Jack Thompson",
+        "mobile": "01735-678901"
+      },
+      {
+        "location": "Muradpur",
+        "salesman": "Oliver Campbell",
+        "mobile": "01736-789012"
+      },
+      {
+        "location": "Ambagan",
+        "salesman": "Emma Ward",
+        "mobile": "01737-890123"
+      }
+    ],
+    "waste_categories": {
+      "rubber": "140 BDT/kg",
+      "textile": "90 BDT/kg",
+      "wood": "80 BDT/kg"
+    }
   },
   {
     "company_name": "Recycle Right Inc",
-    "lat": 35.6895,
-    "long": 139.6917,
+    "lat": 22.2900,
+    "long": 91.7700,
     "image": "https://via.placeholder.com/150?text=Recycle+Right+Inc",
     "mobile": "012-345-6789",
-    "address": "707 Right St, Tokyo, Japan",
-    "email": "info@recycleright.com"
+    "address": "707 Reazuddin Bazar, Chittagong, Bangladesh",
+    "email": "info@recycleright.com",
+    "sales_locations": [
+      {
+        "location": "Halishahar",
+        "salesman": "William Nelson",
+        "mobile": "01738-901234"
+      },
+      {
+        "location": "Pahartali",
+        "salesman": "Elijah Carter",
+        "mobile": "01739-012345"
+      },
+      {
+        "location": "Patenga",
+        "salesman": "James Mitchell",
+        "mobile": "01740-123456"
+      }
+    ],
+    "waste_categories": {
+      "plastic": "130 BDT/kg",
+      "metal": "230 BDT/kg",
+      "paper": "80 BDT/kg"
+    }
   },
   {
     "company_name": "EnviroGuard Recycling",
-    "lat": 37.7749,
-    "long": -122.4194,
+    "lat": 22.2800,
+    "long": 91.7600,
     "image": "https://via.placeholder.com/150?text=EnviroGuard+Recycling",
     "mobile": "123-456-7890",
-    "address": "808 Guard Rd, San Francisco, CA",
-    "email": "support@enviroguard.com"
+    "address": "808 KB Aman Ali Road, Chittagong, Bangladesh",
+    "email": "support@enviroguard.com",
+    "sales_locations": [
+      {
+        "location": "Bayezid",
+        "salesman": "Lucas Perez",
+        "mobile": "01741-234567"
+      },
+      {
+        "location": "Khulshi",
+        "salesman": "Alexander Lee",
+        "mobile": "01742-345678"
+      },
+      {
+        "location": "Lalkhan Bazar",
+        "salesman": "Mason Garcia",
+        "mobile": "01743-456789"
+      }
+    ],
+    "waste_categories": {
+      "glass": "110 BDT/kg",
+      "electronic": "350 BDT/kg",
+      "organic": "50 BDT/kg"
+    }
   },
   {
     "company_name": "RenewCycle Services",
-    "lat": 34.0522,
-    "long": -118.2437,
+    "lat": 22.2700,
+    "long": 91.7500,
     "image": "https://via.placeholder.com/150?text=RenewCycle+Services",
     "mobile": "234-567-8901",
-    "address": "909 Renew Ave, Los Angeles, CA",
-    "email": "hello@renewcycle.com"
+    "address": "909 Jamal Khan Road, Chittagong, Bangladesh",
+    "email": "hello@renewcycle.com",
+    "sales_locations": [
+      {
+        "location": "GEC Circle",
+        "salesman": "Henry Hernandez",
+        "mobile": "01744-567890"
+      },
+      {
+        "location": "Muradpur",
+        "salesman": "Sebastian Miller",
+        "mobile": "01745-678901"
+      },
+      {
+        "location": "Pahartali",
+        "salesman": "Carter Gonzalez",
+        "mobile": "01746-789012"
+      }
+    ],
+    "waste_categories": {
+      "rubber": "150 BDT/kg",
+      "textile": "100 BDT/kg",
+      "wood": "90 BDT/kg"
+    }
   },
   {
     "company_name": "ZeroWaste Recyclers",
-    "lat": 40.7128,
-    "long": -74.0060,
+    "lat": 22.2600,
+    "long": 91.7400,
     "image": "https://via.placeholder.com/150?text=ZeroWaste+Recyclers",
     "mobile": "345-678-9012",
-    "address": "1010 Waste St, New York, NY",
-    "email": "contact@zerowaste.com"
+    "address": "1010 Sheikh Mujib Road, Chittagong, Bangladesh",
+    "email": "contact@zerowaste.com",
+    "sales_locations": [
+      {
+        "location": "Agrabad",
+        "salesman": "Sebastian Martin",
+        "mobile": "01747-890123"
+      },
+      {
+        "location": "EPZ",
+        "salesman": "Levi Anderson",
+        "mobile": "01748-901234"
+      },
+      {
+        "location": "Patenga",
+        "salesman": "Benjamin Taylor",
+        "mobile": "01749-012345"
+      }
+    ],
+    "waste_categories": {
+      "plastic": "140 BDT/kg",
+      "metal": "240 BDT/kg",
+      "paper": "90 BDT/kg"
+    }
   },
   {
     "company_name": "EcoFriendly Waste Solutions",
-    "lat": 41.8781,
-    "long": -87.6298,
+    "lat": 22.2500,
+    "long": 91.7300,
     "image": "https://via.placeholder.com/150?text=EcoFriendly+Waste+Solutions",
     "mobile": "456-789-0123",
-    "address": "1111 Friendly Blvd, Chicago, IL",
-    "email": "info@ecofriendly.com"
+    "address": "1111 Tigerpass, Chittagong, Bangladesh",
+    "email": "info@ecofriendly.com",
+    "sales_locations": [
+      {
+        "location": "Chawkbazar",
+        "salesman": "Matthew White",
+        "mobile": "01750-123456"
+      },
+      {
+        "location": "Bakalia",
+        "salesman": "Ella Thompson",
+        "mobile": "01751-234567"
+      },
+      {
+        "location": "DC Hill",
+        "salesman": "James Harris",
+        "mobile": "01752-345678"
+      }
+    ],
+    "waste_categories": {
+      "glass": "120 BDT/kg",
+      "electronic": "360 BDT/kg",
+      "organic": "60 BDT/kg"
+    }
   },
   {
     "company_name": "CleanEarth Recycling",
-    "lat": 29.7604,
-    "long": -95.3698,
+    "lat": 22.2400,
+    "long": 91.7200,
     "image": "https://via.placeholder.com/150?text=CleanEarth+Recycling",
     "mobile": "567-890-1234",
-    "address": "1212 Earth Ln, Houston, TX",
-    "email": "support@cleanearth.com"
+    "address": "1212 CDA Avenue, Chittagong, Bangladesh",
+    "email": "support@cleanearth.com",
+    "sales_locations": [
+      {
+        "location": "Bayezid",
+        "salesman": "Samuel Lewis",
+        "mobile": "01753-456789"
+      },
+      {
+        "location": "Khulshi",
+        "salesman": "Grace Martinez",
+        "mobile": "01754-567890"
+      },
+      {
+        "location": "Nasirabad",
+        "salesman": "James Robinson",
+        "mobile": "01755-678901"
+      }
+    ],
+    "waste_categories": {
+      "rubber": "160 BDT/kg",
+      "textile": "110 BDT/kg",
+      "wood": "100 BDT/kg"
+    }
   },
   {
     "company_name": "GreenCycle Recyclers",
-    "lat": 39.7392,
-    "long": -104.9903,
+    "lat": 22.2300,
+    "long": 91.7100,
     "image": "https://via.placeholder.com/150?text=GreenCycle+Recyclers",
     "mobile": "678-901-2345",
-    "address": "1313 Cycle Dr, Denver, CO",
-    "email": "hello@greencycle.com"
+    "address": "1313 Bahaddarhat, Chittagong, Bangladesh",
+    "email": "hello@greencycle.com",
+    "sales_locations": [
+      {
+        "location": "Lalkhan Bazar",
+        "salesman": "Oliver Scott",
+        "mobile": "01756-789012"
+      },
+      {
+        "location": "Ambagan",
+        "salesman": "Amelia Garcia",
+        "mobile": "01757-890123"
+      },
+      {
+        "location": "Andarkilla",
+        "salesman": "Ethan Hernandez",
+        "mobile": "01758-901234"
+      }
+    ],
+    "waste_categories": {
+      "plastic": "150 BDT/kg",
+      "metal": "250 BDT/kg",
+      "paper": "100 BDT/kg"
+    }
   },
   {
     "company_name": "EcoGuard Solutions",
-    "lat": 34.0522,
-    "long": -118.2437,
+    "lat": 22.2200,
+    "long": 91.7000,
     "image": "https://via.placeholder.com/150?text=EcoGuard+Solutions",
     "mobile": "789-012-3456",
-    "address": "1414 Guard St, Los Angeles, CA",
-    "email": "contact@ecoguard.com"
+    "address": "1414 Patenga, Chittagong, Bangladesh",
+    "email": "contact@ecoguard.com",
+    "sales_locations": [
+      {
+        "location":
+
+ "Agrabad",
+        "salesman": "Benjamin Thompson",
+        "mobile": "01759-012345"
+      },
+      {
+        "location": "EPZ",
+        "salesman": "Sophia Robinson",
+        "mobile": "01760-123456"
+      },
+      {
+        "location": "Patenga",
+        "salesman": "Daniel Martinez",
+        "mobile": "01761-234567"
+      }
+    ],
+    "waste_categories": {
+      "glass": "130 BDT/kg",
+      "electronic": "370 BDT/kg",
+      "organic": "70 BDT/kg"
+    }
   },
   {
     "company_name": "PurePlanet Recycling",
-    "lat": 51.5074,
-    "long": -0.1278,
+    "lat": 22.2100,
+    "long": 91.6900,
     "image": "https://via.placeholder.com/150?text=PurePlanet+Recycling",
     "mobile": "890-123-4567",
-    "address": "1515 Planet Blvd, London, UK",
-    "email": "info@pureplanet.com"
+    "address": "1515 Jamal Khan Road, Chittagong, Bangladesh",
+    "email": "info@pureplanet.com",
+    "sales_locations": [
+      {
+        "location": "GEC Circle",
+        "salesman": "Sebastian Nelson",
+        "mobile": "01762-345678"
+      },
+      {
+        "location": "Muradpur",
+        "salesman": "Mason Anderson",
+        "mobile": "01763-456789"
+      },
+      {
+        "location": "Pahartali",
+        "salesman": "Lucas Thompson",
+        "mobile": "01764-567890"
+      }
+    ],
+    "waste_categories": {
+      "rubber": "170 BDT/kg",
+      "textile": "120 BDT/kg",
+      "wood": "110 BDT/kg"
+    }
   },
   {
     "company_name": "RecycleNow Services",
-    "lat": 48.8566,
-    "long": 2.3522,
+    "lat": 22.2000,
+    "long": 91.6800,
     "image": "https://via.placeholder.com/150?text=RecycleNow+Services",
     "mobile": "901-234-5678",
-    "address": "1616 Now Ln, Paris, France",
-    "email": "support@recyclenow.com"
+    "address": "1616 KB Aman Ali Road, Chittagong, Bangladesh",
+    "email": "support@recyclenow.com",
+    "sales_locations": [
+      {
+        "location": "Bayezid",
+        "salesman": "Henry Mitchell",
+        "mobile": "01765-678901"
+      },
+      {
+        "location": "Khulshi",
+        "salesman": "Elijah Nelson",
+        "mobile": "01766-789012"
+      },
+      {
+        "location": "Nasirabad",
+        "salesman": "James Carter",
+        "mobile": "01767-890123"
+      }
+    ],
+    "waste_categories": {
+      "plastic": "160 BDT/kg",
+      "metal": "260 BDT/kg",
+      "paper": "110 BDT/kg"
+    }
   },
   {
     "company_name": "GreenTech Recycling",
-    "lat": 35.6895,
-    "long": 139.6917,
+    "lat": 22.1900,
+    "long": 91.6700,
     "image": "https://via.placeholder.com/150?text=GreenTech+Recycling",
     "mobile": "012-345-6789",
-    "address": "1717 Tech St, Tokyo, Japan",
-    "email": "hello@greentech.com"
+    "address": "1717 Reazuddin Bazar, Chittagong, Bangladesh",
+    "email": "hello@greentech.com",
+    "sales_locations": [
+      {
+        "location": "Halishahar",
+        "salesman": "Oliver Lee",
+        "mobile": "01768-901234"
+      },
+      {
+        "location": "Pahartali",
+        "salesman": "William Martin",
+        "mobile": "01769-012345"
+      },
+      {
+        "location": "Patenga",
+        "salesman": "Elijah White",
+        "mobile": "01770-123456"
+      }
+    ],
+    "waste_categories": {
+      "glass": "140 BDT/kg",
+      "electronic": "380 BDT/kg",
+      "organic": "80 BDT/kg"
+    }
   }
 ]
