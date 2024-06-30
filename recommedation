@@ -1,1 +1,140 @@
-{"GreenCycle Ltd.": ["Recycle Nation", "Eco Recyclers", "Waste to Wealth", "Green Earth Recyclers", "Urban Recyclers"], "Recycle Nation": ["Eco Recyclers", "Waste to Wealth", "Green Earth Recyclers", "Urban Recyclers", "GreenCycle Ltd."], "Eco Recyclers": ["Eco Recyclers", "Waste to Wealth", "Green Earth Recyclers", "Urban Recyclers", "GreenCycle Ltd."], "Waste to Wealth": ["Eco Recyclers", "Waste to Wealth", "Green Earth Recyclers", "Urban Recyclers", "GreenCycle Ltd."], "Green Earth Recyclers": ["Eco Recyclers", "Waste to Wealth", "Green Earth Recyclers", "Urban Recyclers", "GreenCycle Ltd."], "Urban Recyclers": ["Eco Recyclers", "Waste to Wealth", "Green Earth Recyclers", "Urban Recyclers", "GreenCycle Ltd."]}
+{
+    "fabric": [
+        "Eco Recyclers"
+    ],
+    "magazines": [
+        "Green Earth Recyclers"
+    ],
+    "paper": [
+        "Waste to Wealth",
+        "Green Earth Recyclers",
+        "Recycle Nation",
+        "GreenCycle Ltd.",
+        "Eco Recyclers",
+        "Urban Recyclers"
+    ],
+    "glass": [
+        "Waste to Wealth",
+        "Green Earth Recyclers",
+        "Recycle Nation",
+        "GreenCycle Ltd.",
+        "Eco Recyclers",
+        "Urban Recyclers"
+    ],
+    "copper": [
+        "Eco Recyclers"
+    ],
+    "crates": [
+        "Urban Recyclers"
+    ],
+    "iron": [
+        "Waste to Wealth",
+        "GreenCycle Ltd."
+    ],
+    "steel": [
+        "Recycle Nation"
+    ],
+    "bags": [
+        "Eco Recyclers"
+    ],
+    "cardboard": [
+        "Recycle Nation"
+    ],
+    "pulp": [
+        "GreenCycle Ltd."
+    ],
+    "window": [
+        "Eco Recyclers"
+    ],
+    "brass": [
+        "Green Earth Recyclers"
+    ],
+    "news": [
+        "Waste to Wealth"
+    ],
+    "containers": [
+        "Recycle Nation"
+    ],
+    "textiles": [
+        "Waste to Wealth",
+        "Green Earth Recyclers",
+        "Recycle Nation",
+        "Eco Recyclers",
+        "Urban Recyclers"
+    ],
+    "keyboards": [
+        "Urban Recyclers"
+    ],
+    "electronics": [
+        "Waste to Wealth",
+        "Green Earth Recyclers",
+        "Recycle Nation",
+        "GreenCycle Ltd.",
+        "Eco Recyclers",
+        "Urban Recyclers"
+    ],
+    "tubing": [
+        "GreenCycle Ltd."
+    ],
+    "pipes": [
+        "Waste to Wealth",
+        "Urban Recyclers"
+    ],
+    "shards": [
+        "Waste to Wealth"
+    ],
+    "shredded": [
+        "Urban Recyclers"
+    ],
+    "cotton": [
+        "Green Earth Recyclers"
+    ],
+    "jars": [
+        "Recycle Nation",
+        "Urban Recyclers"
+    ],
+    "phones": [
+        "Green Earth Recyclers",
+        "Recycle Nation"
+    ],
+    "denim": [
+        "Waste to Wealth"
+    ],
+    "metal": [
+        "Waste to Wealth",
+        "Green Earth Recyclers",
+        "Recycle Nation",
+        "GreenCycle Ltd.",
+        "Eco Recyclers",
+        "Urban Recyclers"
+    ],
+    "laptop": [
+        "Eco Recyclers"
+    ],
+    "plastic": [
+        "Waste to Wealth",
+        "Green Earth Recyclers",
+        "Recycle Nation",
+        "GreenCycle Ltd.",
+        "Eco Recyclers",
+        "Urban Recyclers"
+    ],
+    "bottles": [
+        "Green Earth Recyclers"
+    ],
+    "plates": [
+        "Green Earth Recyclers"
+    ],
+    "wool": [
+        "Urban Recyclers"
+    ],
+    "office": [
+        "Eco Recyclers"
+    ],
+    "clothes": [
+        "Recycle Nation"
+    ],
+    "boards": [
+        "Waste to Wealth"
+    ]
+}
