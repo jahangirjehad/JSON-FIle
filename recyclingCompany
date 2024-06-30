@@ -1,0 +1,354 @@
+[
+  {
+    "name": "GreenCycle Ltd.",
+    "image": "https://example.com/images/greencycle.jpg",
+    "mobile": "+8801712345678",
+    "rating": 4.5,
+    "address": "123 Green Street, Chittagong, Bangladesh",
+    "email": "contact@greencycle.com",
+    "lat": 22.3569,
+    "long": 91.7832,
+    "selling_category": {
+      "paper": [
+        {
+          "images": "https://example.com/images/paper1.jpg",
+          "description": "Mixed paper waste",
+          "minWeight": 10,
+          "price": 5
+        }
+      ],
+      "metal": [
+        {
+          "images": "https://example.com/images/metal1.jpg",
+          "description": "Aluminum cans",
+          "minWeight": 15,
+          "price": 20
+        }
+      ],
+      "plastic": [
+        {
+          "images": "https://example.com/images/plastic1.jpg",
+          "description": "PET bottles",
+          "minWeight": 25,
+          "price": 10
+        }
+      ],
+      "glass": [
+        {
+          "images": "https://example.com/images/glass1.jpg",
+          "description": "Glass bottles",
+          "minWeight": 20,
+          "price": 12
+        }
+      ],
+      "electronics": [
+        {
+          "images": "https://example.com/images/electronics1.jpg",
+          "description": "E-waste",
+          "minWeight": 30,
+          "price": 40
+        }
+      ]
+    }
+  },
+  {
+    "name": "Recycle Nation",
+    "image": "https://example.com/images/recyclenation.jpg",
+    "mobile": "+8801712345679",
+    "rating": 4.2,
+    "address": "456 Eco Road, Chittagong, Bangladesh",
+    "email": "info@recyclenation.com",
+    "lat": 22.3569,
+    "long": 91.7832,
+    "selling_category": {
+      "paper": [
+        {
+          "images": "https://example.com/images/paper2.jpg",
+          "description": "Cardboard boxes",
+          "minWeight": 20,
+          "price": 7
+        }
+      ],
+      "metal": [
+        {
+          "images": "https://example.com/images/metal2.jpg",
+          "description": "Steel scrap",
+          "minWeight": 30,
+          "price": 25
+        }
+      ],
+      "plastic": [
+        {
+          "images": "https://example.com/images/plastic2.jpg",
+          "description": "HDPE containers",
+          "minWeight": 20,
+          "price": 8
+        }
+      ],
+      "glass": [
+        {
+          "images": "https://example.com/images/glass2.jpg",
+          "description": "Glass jars",
+          "minWeight": 18,
+          "price": 10
+        }
+      ],
+      "electronics": [
+        {
+          "images": "https://example.com/images/electronics2.jpg",
+          "description": "Old phones",
+          "minWeight": 25,
+          "price": 35
+        }
+      ],
+      "textiles": [
+        {
+          "images": "https://example.com/images/textiles1.jpg",
+          "description": "Used clothes",
+          "minWeight": 10,
+          "price": 15
+        }
+      ]
+    }
+  },
+  {
+    "name": "Eco Recyclers",
+    "image": "https://example.com/images/ecorecyclers.jpg",
+    "mobile": "+8801712345680",
+    "rating": 4.7,
+    "address": "789 Greenway, Chittagong, Bangladesh",
+    "email": "support@ecorecyclers.com",
+    "lat": 22.3569,
+    "long": 91.7832,
+    "selling_category": {
+      "paper": [
+        {
+          "images": "https://example.com/images/paper3.jpg",
+          "description": "Office paper",
+          "minWeight": 25,
+          "price": 6
+        }
+      ],
+      "metal": [
+        {
+          "images": "https://example.com/images/metal3.jpg",
+          "description": "Copper wires",
+          "minWeight": 40,
+          "price": 30
+        }
+      ],
+      "plastic": [
+        {
+          "images": "https://example.com/images/plastic3.jpg",
+          "description": "Plastic bags",
+          "minWeight": 50,
+          "price": 5
+        }
+      ],
+      "glass": [
+        {
+          "images": "https://example.com/images/glass3.jpg",
+          "description": "Window glass",
+          "minWeight": 30,
+          "price": 15
+        }
+      ],
+      "electronics": [
+        {
+          "images": "https://example.com/images/electronics3.jpg",
+          "description": "Laptop parts",
+          "minWeight": 20,
+          "price": 50
+        }
+      ],
+      "textiles": [
+        {
+          "images": "https://example.com/images/textiles2.jpg",
+          "description": "Fabric scraps",
+          "minWeight": 15,
+          "price": 12
+        }
+      ]
+    }
+  },
+  {
+    "name": "Waste to Wealth",
+    "image": "https://example.com/images/wastetowealth.jpg",
+    "mobile": "+8801712345681",
+    "rating": 4.6,
+    "address": "101 Wealth Street, Chittagong, Bangladesh",
+    "email": "hello@wastetowealth.com",
+    "lat": 22.3569,
+    "long": 91.7832,
+    "selling_category": {
+      "paper": [
+        {
+          "images": "https://example.com/images/paper4.jpg",
+          "description": "Newspaper",
+          "minWeight": 15,
+          "price": 4
+        }
+      ],
+      "metal": [
+        {
+          "images": "https://example.com/images/metal4.jpg",
+          "description": "Iron rods",
+          "minWeight": 50,
+          "price": 18
+        }
+      ],
+      "plastic": [
+        {
+          "images": "https://example.com/images/plastic4.jpg",
+          "description": "PVC pipes",
+          "minWeight": 40,
+          "price": 12
+        }
+      ],
+      "glass": [
+        {
+          "images": "https://example.com/images/glass4.jpg",
+          "description": "Glass shards",
+          "minWeight": 35,
+          "price": 10
+        }
+      ],
+      "electronics": [
+        {
+          "images": "https://example.com/images/electronics4.jpg",
+          "description": "Circuit boards",
+          "minWeight": 25,
+          "price": 45
+        }
+      ],
+      "textiles": [
+        {
+          "images": "https://example.com/images/textiles3.jpg",
+          "description": "Denim",
+          "minWeight": 12,
+          "price": 14
+        }
+      ]
+    }
+  },
+  {
+    "name": "Green Earth Recyclers",
+    "image": "https://example.com/images/greenearth.jpg",
+    "mobile": "+8801712345682",
+    "rating": 4.8,
+    "address": "202 Green Lane, Chittagong, Bangladesh",
+    "email": "contact@greenearth.com",
+    "lat": 22.3569,
+    "long": 91.7832,
+    "selling_category": {
+      "paper": [
+        {
+          "images": "https://example.com/images/paper5.jpg",
+          "description": "Magazines",
+          "minWeight": 12,
+          "price": 5
+        }
+      ],
+      "metal": [
+        {
+          "images": "https://example.com/images/metal5.jpg",
+          "description": "Brass items",
+          "minWeight": 45,
+          "price": 22
+        }
+      ],
+      "plastic": [
+        {
+          "images": "https://example.com/images/plastic5.jpg",
+          "description": "Plastic bottles",
+          "minWeight": 30,
+          "price": 9
+        }
+      ],
+      "glass": [
+        {
+          "images": "https://example.com/images/glass5.jpg",
+          "description": "Glass plates",
+          "minWeight": 25,
+          "price": 11
+        }
+      ],
+      "electronics": [
+        {
+          "images": "https://example.com/images/electronics5.jpg",
+          "description": "Mobile phones",
+          "minWeight": 10,
+          "price": 55
+        }
+      ],
+      "textiles": [
+        {
+          "images": "https://example.com/images/textiles4.jpg",
+          "description": "Cotton",
+          "minWeight": 20,
+          "price": 13
+        }
+      ]
+    }
+  },
+  {
+    "name": "Urban Recyclers",
+    "image": "https://example.com/images/urbanrecyclers.jpg",
+    "mobile": "+8801712345683",
+    "rating": 4.3,
+    "address": "303 Urban Street, Chittagong, Bangladesh",
+    "email": "support@urbanrecyclers.com",
+    "lat": 22.3569,
+    "long": 91.7832,
+    "selling_category": {
+      "paper": [
+        {
+          "images": "https://example.com/images/paper6.jpg",
+          "description": "Shredded paper",
+          "minWeight": 18,
+          "price": 4
+        }
+      ],
+      "metal": [
+        {
+          "images": "https://example.com/images/metal6.jpg",
+          "description": "Metal pipes",
+          "minWeight": 35,
+          "price": 20
+        }
+      ],
+      "plastic": [
+        {
+          "images": "https://example.com/images/plastic6.jpg",
+          "description": "Plastic crates",
+          "minWeight": 30,
+          "price": 7
+        }
+      ],
+      "glass": [
+        {
+          "images": "https://example.com/images/glass6.jpg",
+          "description": "Glass jars",
+          "minWeight": 28,
+          "price": 9
+        }
+      ],
+      "electronics": [
+        {
+          "images": "https://example.com/images/electronics6.jpg",
+          "description": "Old keyboards",
+          "minWeight": 15,
+          "price": 30
+        }
+      ],
+      "textiles": [
+        {
+          "images": "https://example.com/images/textiles5.jpg",
+          "description": "Wool",
+          "minWeight": 25,
+          "price": 12
+        }
+      ]
+    }
+  }
+]
