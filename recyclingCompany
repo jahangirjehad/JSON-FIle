@@ -4,10 +4,10 @@
     "image": "https://example.com/images/greencycle.jpg",
     "mobile": "+8801712345678",
     "rating": 4.5,
-    "address": "123 Green Street, Chittagong, Bangladesh",
+    "address": "123 Green Street, Dhaka, Bangladesh",
     "email": "contact@greencycle.com",
-    "lat": 22.3569,
-    "long": 91.7832,
+    "lat": 23.8103,
+    "long": 90.4125,
     "selling_category": {
       "paper": [
         {
@@ -56,10 +56,10 @@
     "image": "https://example.com/images/recyclenation.jpg",
     "mobile": "+8801712345679",
     "rating": 4.2,
-    "address": "456 Eco Road, Chittagong, Bangladesh",
+    "address": "456 Eco Road, Sylhet, Bangladesh",
     "email": "info@recyclenation.com",
-    "lat": 22.3569,
-    "long": 91.7832,
+    "lat": 24.8949,
+    "long": 91.8687,
     "selling_category": {
       "paper": [
         {
@@ -116,10 +116,10 @@
     "image": "https://example.com/images/ecorecyclers.jpg",
     "mobile": "+8801712345680",
     "rating": 4.7,
-    "address": "789 Greenway, Chittagong, Bangladesh",
+    "address": "789 Greenway, Rajshahi, Bangladesh",
     "email": "support@ecorecyclers.com",
-    "lat": 22.3569,
-    "long": 91.7832,
+    "lat": 24.3636,
+    "long": 88.6241,
     "selling_category": {
       "paper": [
         {
@@ -176,10 +176,10 @@
     "image": "https://example.com/images/wastetowealth.jpg",
     "mobile": "+8801712345681",
     "rating": 4.6,
-    "address": "101 Wealth Street, Chittagong, Bangladesh",
+    "address": "101 Wealth Street, Khulna, Bangladesh",
     "email": "hello@wastetowealth.com",
-    "lat": 22.3569,
-    "long": 91.7832,
+    "lat": 22.8456,
+    "long": 89.5403,
     "selling_category": {
       "paper": [
         {
@@ -236,10 +236,10 @@
     "image": "https://example.com/images/greenearth.jpg",
     "mobile": "+8801712345682",
     "rating": 4.8,
-    "address": "202 Green Lane, Chittagong, Bangladesh",
+    "address": "202 Green Lane, Barisal, Bangladesh",
     "email": "contact@greenearth.com",
-    "lat": 22.3569,
-    "long": 91.7832,
+    "lat": 22.7010,
+    "long": 90.3535,
     "selling_category": {
       "paper": [
         {
@@ -296,10 +296,10 @@
     "image": "https://example.com/images/urbanrecyclers.jpg",
     "mobile": "+8801712345683",
     "rating": 4.3,
-    "address": "303 Urban Street, Chittagong, Bangladesh",
+    "address": "303 Urban Street, Comilla, Bangladesh",
     "email": "support@urbanrecyclers.com",
-    "lat": 22.3569,
-    "long": 91.7832,
+    "lat": 23.4619,
+    "long": 91.1809,
     "selling_category": {
       "paper": [
         {
