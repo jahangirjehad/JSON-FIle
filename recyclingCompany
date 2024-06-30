@@ -49,7 +49,8 @@
           "price": 40
         }
       ]
-    }
+    },
+    "category": ["paper", "pulp", "metal", "iron", "plastic", "tubing", "glass", "electronics"]
   },
   {
     "name": "Recycle Nation",
@@ -109,7 +110,8 @@
           "price": 15
         }
       ]
-    }
+    },
+    "category": ["paper", "cardboard", "metal", "steel", "plastic", "containers", "glass", "jars", "electronics", "phones", "textiles", "clothes"]
   },
   {
     "name": "Eco Recyclers",
@@ -169,7 +171,8 @@
           "price": 12
         }
       ]
-    }
+    },
+    "category": ["paper", "office", "metal", "copper", "plastic", "bags", "glass", "window", "electronics", "laptop", "textiles", "fabric"]
   },
   {
     "name": "Waste to Wealth",
@@ -229,7 +232,8 @@
           "price": 14
         }
       ]
-    }
+    },
+    "category": ["paper", "news", "metal", "iron", "plastic", "pipes", "glass", "shards", "electronics", "boards", "textiles", "denim"]
   },
   {
     "name": "Green Earth Recyclers",
@@ -289,7 +293,8 @@
           "price": 13
         }
       ]
-    }
+    },
+    "category": ["paper", "magazines", "metal", "brass", "plastic", "bottles", "glass", "plates", "electronics", "phones", "textiles", "cotton"]
   },
   {
     "name": "Urban Recyclers",
@@ -349,6 +354,7 @@
           "price": 12
         }
       ]
-    }
+    },
+    "category": ["paper", "shredded", "metal", "pipes", "plastic", "crates", "glass", "jars", "electronics", "keyboards", "textiles", "wool"]
   }
 ]
