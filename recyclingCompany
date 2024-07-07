@@ -1,7 +1,7 @@
 [
   {
     "name": "GreenCycle Ltd.",
-    "image": "https://example.com/images/greencycle.jpg",
+    "image": "https://picsum.photos/id/1005/200/300",
     "mobile": "+8801712345678",
     "rating": 4.5,
     "address": "123 Green Street, Dhaka, Bangladesh",
@@ -11,7 +11,7 @@
     "selling_category": {
       "paper": [
         {
-          "images": "https://example.com/images/paper1.jpg",
+          "images": "https://picsum.photos/id/1011/200/300",
           "description": "Mixed paper waste",
           "minWeight": 10,
           "price": 5
@@ -19,7 +19,7 @@
       ],
       "metal": [
         {
-          "images": "https://example.com/images/metal1.jpg",
+          "images": "https://picsum.photos/id/1012/200/300",
           "description": "Aluminum cans",
           "minWeight": 15,
           "price": 20
@@ -27,7 +27,7 @@
       ],
       "plastic": [
         {
-          "images": "https://example.com/images/plastic1.jpg",
+          "images": "https://picsum.photos/id/1013/200/300",
           "description": "PET bottles",
           "minWeight": 25,
           "price": 10
@@ -35,7 +35,7 @@
       ],
       "glass": [
         {
-          "images": "https://example.com/images/glass1.jpg",
+          "images": "https://picsum.photos/id/1014/200/300",
           "description": "Glass bottles",
           "minWeight": 20,
           "price": 12
@@ -43,7 +43,7 @@
       ],
       "electronics": [
         {
-          "images": "https://example.com/images/electronics1.jpg",
+          "images": "https://picsum.photos/id/1015/200/300",
           "description": "E-waste",
           "minWeight": 30,
           "price": 40
@@ -54,7 +54,7 @@
   },
   {
     "name": "Recycle Nation",
-    "image": "https://example.com/images/recyclenation.jpg",
+    "image": "https://picsum.photos/id/1006/200/300",
     "mobile": "+8801712345679",
     "rating": 4.2,
     "address": "456 Eco Road, Sylhet, Bangladesh",
@@ -64,7 +64,7 @@
     "selling_category": {
       "paper": [
         {
-          "images": "https://example.com/images/paper2.jpg",
+          "images": "https://picsum.photos/id/1016/200/300",
           "description": "Cardboard boxes",
           "minWeight": 20,
           "price": 7
@@ -72,7 +72,7 @@
       ],
       "metal": [
         {
-          "images": "https://example.com/images/metal2.jpg",
+          "images": "https://picsum.photos/id/1017/200/300",
           "description": "Steel scrap",
           "minWeight": 30,
           "price": 25
@@ -80,7 +80,7 @@
       ],
       "plastic": [
         {
-          "images": "https://example.com/images/plastic2.jpg",
+          "images": "https://picsum.photos/id/1018/200/300",
           "description": "HDPE containers",
           "minWeight": 20,
           "price": 8
@@ -88,7 +88,7 @@
       ],
       "glass": [
         {
-          "images": "https://example.com/images/glass2.jpg",
+          "images": "https://picsum.photos/id/1019/200/300",
           "description": "Glass jars",
           "minWeight": 18,
           "price": 10
@@ -96,7 +96,7 @@
       ],
       "electronics": [
         {
-          "images": "https://example.com/images/electronics2.jpg",
+          "images": "https://picsum.photos/id/1020/200/300",
           "description": "Old phones",
           "minWeight": 25,
           "price": 35
@@ -104,7 +104,7 @@
       ],
       "textiles": [
         {
-          "images": "https://example.com/images/textiles1.jpg",
+          "images": "https://picsum.photos/id/1021/200/300",
           "description": "Used clothes",
           "minWeight": 10,
           "price": 15
@@ -115,7 +115,7 @@
   },
   {
     "name": "Eco Recyclers",
-    "image": "https://example.com/images/ecorecyclers.jpg",
+    "image": "https://picsum.photos/id/1007/200/300",
     "mobile": "+8801712345680",
     "rating": 4.7,
     "address": "789 Greenway, Rajshahi, Bangladesh",
@@ -125,7 +125,7 @@
     "selling_category": {
       "paper": [
         {
-          "images": "https://example.com/images/paper3.jpg",
+          "images": "https://picsum.photos/id/1022/200/300",
           "description": "Office paper",
           "minWeight": 25,
           "price": 6
@@ -133,7 +133,7 @@
       ],
       "metal": [
         {
-          "images": "https://example.com/images/metal3.jpg",
+          "images": "https://picsum.photos/id/1023/200/300",
           "description": "Copper wires",
           "minWeight": 40,
           "price": 30
@@ -141,7 +141,7 @@
       ],
       "plastic": [
         {
-          "images": "https://example.com/images/plastic3.jpg",
+          "images": "https://picsum.photos/id/1024/200/300",
           "description": "Plastic bags",
           "minWeight": 50,
           "price": 5
@@ -149,7 +149,7 @@
       ],
       "glass": [
         {
-          "images": "https://example.com/images/glass3.jpg",
+          "images": "https://picsum.photos/id/1025/200/300",
           "description": "Window glass",
           "minWeight": 30,
           "price": 15
@@ -157,7 +157,7 @@
       ],
       "electronics": [
         {
-          "images": "https://example.com/images/electronics3.jpg",
+          "images": "https://picsum.photos/id/1026/200/300",
           "description": "Laptop parts",
           "minWeight": 20,
           "price": 50
@@ -165,7 +165,7 @@
       ],
       "textiles": [
         {
-          "images": "https://example.com/images/textiles2.jpg",
+          "images": "https://picsum.photos/id/1027/200/300",
           "description": "Fabric scraps",
           "minWeight": 15,
           "price": 12
@@ -176,7 +176,7 @@
   },
   {
     "name": "Waste to Wealth",
-    "image": "https://example.com/images/wastetowealth.jpg",
+    "image": "https://picsum.photos/id/1008/200/300",
     "mobile": "+8801712345681",
     "rating": 4.6,
     "address": "101 Wealth Street, Khulna, Bangladesh",
@@ -186,7 +186,7 @@
     "selling_category": {
       "paper": [
         {
-          "images": "https://example.com/images/paper4.jpg",
+          "images": "https://picsum.photos/id/1028/200/300",
           "description": "Newspaper",
           "minWeight": 15,
           "price": 4
@@ -194,7 +194,7 @@
       ],
       "metal": [
         {
-          "images": "https://example.com/images/metal4.jpg",
+          "images": "https://picsum.photos/id/1029/200/300",
           "description": "Iron rods",
           "minWeight": 50,
           "price": 18
@@ -202,7 +202,7 @@
       ],
       "plastic": [
         {
-          "images": "https://example.com/images/plastic4.jpg",
+          "images": "https://picsum.photos/id/1030/200/300",
           "description": "PVC pipes",
           "minWeight": 40,
           "price": 12
@@ -210,7 +210,7 @@
       ],
       "glass": [
         {
-          "images": "https://example.com/images/glass4.jpg",
+          "images": "https://picsum.photos/id/1031/200/300",
           "description": "Glass shards",
           "minWeight": 35,
           "price": 10
@@ -218,7 +218,7 @@
       ],
       "electronics": [
         {
-          "images": "https://example.com/images/electronics4.jpg",
+          "images": "https://picsum.photos/id/1032/200/300",
           "description": "Circuit boards",
           "minWeight": 25,
           "price": 45
@@ -226,7 +226,7 @@
       ],
       "textiles": [
         {
-          "images": "https://example.com/images/textiles3.jpg",
+          "images": "https://picsum.photos/id/1033/200/300",
           "description": "Denim",
           "minWeight": 12,
           "price": 14
@@ -237,124 +237,63 @@
   },
   {
     "name": "Green Earth Recyclers",
-    "image": "https://example.com/images/greenearth.jpg",
+    "image": "https://picsum.photos/id/1009/200/300",
     "mobile": "+8801712345682",
     "rating": 4.8,
-    "address": "202 Green Lane, Barisal, Bangladesh",
+    "address": "202 Recycle Blvd, Chittagong, Bangladesh",
     "email": "contact@greenearth.com",
-    "lat": 22.7010,
-    "long": 90.3535,
+    "lat": 22.3569,
+    "long": 91.7832,
     "selling_category": {
       "paper": [
         {
-          "images": "https://example.com/images/paper5.jpg",
-          "description": "Magazines",
-          "minWeight": 12,
+          "images": "https://picsum.photos/id/1034/200/300",
+          "description": "Books and magazines",
+          "minWeight": 30,
           "price": 5
         }
       ],
       "metal": [
         {
-          "images": "https://example.com/images/metal5.jpg",
+          "images": "https://picsum.photos/id/1035/200/300",
           "description": "Brass items",
-          "minWeight": 45,
-          "price": 22
-        }
-      ],
-      "plastic": [
-        {
-          "images": "https://example.com/images/plastic5.jpg",
-          "description": "Plastic bottles",
-          "minWeight": 30,
-          "price": 9
-        }
-      ],
-      "glass": [
-        {
-          "images": "https://example.com/images/glass5.jpg",
-          "description": "Glass plates",
-          "minWeight": 25,
-          "price": 11
-        }
-      ],
-      "electronics": [
-        {
-          "images": "https://example.com/images/electronics5.jpg",
-          "description": "Mobile phones",
-          "minWeight": 10,
-          "price": 55
-        }
-      ],
-      "textiles": [
-        {
-          "images": "https://example.com/images/textiles4.jpg",
-          "description": "Cotton",
-          "minWeight": 20,
-          "price": 13
-        }
-      ]
-    },
-    "category": ["paper", "magazines", "metal", "brass", "plastic", "bottles", "glass", "plates", "electronics", "phones", "textiles", "cotton"]
-  },
-  {
-    "name": "Urban Recyclers",
-    "image": "https://example.com/images/urbanrecyclers.jpg",
-    "mobile": "+8801712345683",
-    "rating": 4.3,
-    "address": "303 Urban Street, Comilla, Bangladesh",
-    "email": "support@urbanrecyclers.com",
-    "lat": 23.4619,
-    "long": 91.1809,
-    "selling_category": {
-      "paper": [
-        {
-          "images": "https://example.com/images/paper6.jpg",
-          "description": "Shredded paper",
-          "minWeight": 18,
-          "price": 4
-        }
-      ],
-      "metal": [
-        {
-          "images": "https://example.com/images/metal6.jpg",
-          "description": "Metal pipes",
           "minWeight": 35,
-          "price": 20
+          "price": 28
         }
       ],
       "plastic": [
         {
-          "images": "https://example.com/images/plastic6.jpg",
-          "description": "Plastic crates",
-          "minWeight": 30,
+          "images": "https://picsum.photos/id/1036/200/300",
+          "description": "Plastic bottles",
+          "minWeight": 45,
           "price": 7
         }
       ],
       "glass": [
         {
-          "images": "https://example.com/images/glass6.jpg",
-          "description": "Glass jars",
-          "minWeight": 28,
-          "price": 9
+          "images": "https://picsum.photos/id/1037/200/300",
+          "description": "Glass containers",
+          "minWeight": 40,
+          "price": 13
         }
       ],
       "electronics": [
         {
-          "images": "https://example.com/images/electronics6.jpg",
-          "description": "Old keyboards",
-          "minWeight": 15,
-          "price": 30
+          "images": "https://picsum.photos/id/1038/200/300",
+          "description": "Electronic gadgets",
+          "minWeight": 30,
+          "price": 55
         }
       ],
       "textiles": [
         {
-          "images": "https://example.com/images/textiles5.jpg",
-          "description": "Wool",
-          "minWeight": 25,
-          "price": 12
+          "images": "https://picsum.photos/id/1039/200/300",
+          "description": "Old curtains",
+          "minWeight": 20,
+          "price": 10
         }
       ]
     },
-    "category": ["paper", "shredded", "metal", "pipes", "plastic", "crates", "glass", "jars", "electronics", "keyboards", "textiles", "wool"]
+    "category": ["paper", "books", "metal", "brass", "plastic", "bottles", "glass", "containers", "electronics", "gadgets", "textiles", "curtains"]
   }
 ]
