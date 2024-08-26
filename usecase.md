@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {"theme": "base", "themeVariables": {"primaryColor": "#f9f9f9", "edgeLabelBackground":"#ffffff", "tertiaryColor": "#dae8fc", "actorTextColor": "#333", "actorBorderColor": "#333", "lineColor": "#333", "fontSize": "16px"}}}%%
 usecaseDiagram
     actor User as "User"
