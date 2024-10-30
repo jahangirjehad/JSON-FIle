@@ -11,7 +11,7 @@
     "selling_category": {
       "paper": [
         {
-          "images": "https://picsum.photos/id/1011/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w1.jpg",
           "description": "Mixed paper waste",
           "minWeight": 10,
           "price": 5
@@ -19,7 +19,7 @@
       ],
       "metal": [
         {
-          "images": "https://picsum.photos/id/1012/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w4.jpg",
           "description": "Aluminum cans",
           "minWeight": 15,
           "price": 20
@@ -27,7 +27,7 @@
       ],
       "plastic": [
         {
-          "images": "https://picsum.photos/id/1013/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w2.jpg",
           "description": "PET bottles",
           "minWeight": 25,
           "price": 10
@@ -35,7 +35,7 @@
       ],
       "glass": [
         {
-          "images": "https://picsum.photos/id/1014/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w5.jpg",
           "description": "Glass bottles",
           "minWeight": 20,
           "price": 12
@@ -43,7 +43,7 @@
       ],
       "electronics": [
         {
-          "images": "https://picsum.photos/id/1015/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w5.jpg",
           "description": "E-waste",
           "minWeight": 30,
           "price": 40
@@ -64,7 +64,7 @@
     "selling_category": {
       "paper": [
         {
-          "images": "https://picsum.photos/id/1016/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w1.jpg",
           "description": "Cardboard boxes",
           "minWeight": 20,
           "price": 7
@@ -72,7 +72,7 @@
       ],
       "metal": [
         {
-          "images": "https://picsum.photos/id/1017/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w2.jpg",
           "description": "Steel scrap",
           "minWeight": 30,
           "price": 25
@@ -80,7 +80,7 @@
       ],
       "plastic": [
         {
-          "images": "https://picsum.photos/id/1018/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w3.jpg",
           "description": "HDPE containers",
           "minWeight": 20,
           "price": 8
@@ -88,7 +88,7 @@
       ],
       "glass": [
         {
-          "images": "https://picsum.photos/id/1019/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w4.jpg",
           "description": "Glass jars",
           "minWeight": 18,
           "price": 10
@@ -96,7 +96,7 @@
       ],
       "electronics": [
         {
-          "images": "https://picsum.photos/id/1020/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w5.jpg",
           "description": "Old phones",
           "minWeight": 25,
           "price": 35
@@ -104,7 +104,7 @@
       ],
       "textiles": [
         {
-          "images": "https://picsum.photos/id/1021/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w6.jpg",
           "description": "Used clothes",
           "minWeight": 10,
           "price": 15
@@ -125,7 +125,7 @@
     "selling_category": {
       "paper": [
         {
-          "images": "https://picsum.photos/id/1022/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w1.jpg",
           "description": "Office paper",
           "minWeight": 25,
           "price": 6
@@ -133,7 +133,7 @@
       ],
       "metal": [
         {
-          "images": "https://picsum.photos/id/1023/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w2.jpg",
           "description": "Copper wires",
           "minWeight": 40,
           "price": 30
@@ -141,7 +141,7 @@
       ],
       "plastic": [
         {
-          "images": "https://picsum.photos/id/1024/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w3.jpg",
           "description": "Plastic bags",
           "minWeight": 50,
           "price": 5
@@ -149,7 +149,7 @@
       ],
       "glass": [
         {
-          "images": "https://picsum.photos/id/1025/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w4.jpg",
           "description": "Window glass",
           "minWeight": 30,
           "price": 15
@@ -157,7 +157,7 @@
       ],
       "electronics": [
         {
-          "images": "https://picsum.photos/id/1026/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w5.jpg",
           "description": "Laptop parts",
           "minWeight": 20,
           "price": 50
@@ -165,7 +165,7 @@
       ],
       "textiles": [
         {
-          "images": "https://picsum.photos/id/1027/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w6.jpg",
           "description": "Fabric scraps",
           "minWeight": 15,
           "price": 12
@@ -176,7 +176,7 @@
   },
   {
     "name": "Waste to Wealth",
-    "image": "https://picsum.photos/id/1008/200/300",
+    "image": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w1.jpg",
     "mobile": "+8801712345681",
     "rating": 4.6,
     "address": "101 Wealth Street, Khulna, Bangladesh",
@@ -186,7 +186,7 @@
     "selling_category": {
       "paper": [
         {
-          "images": "https://picsum.photos/id/1028/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w2.jpg",
           "description": "Newspaper",
           "minWeight": 15,
           "price": 4
@@ -194,7 +194,7 @@
       ],
       "metal": [
         {
-          "images": "https://picsum.photos/id/1029/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w3.jpg",
           "description": "Iron rods",
           "minWeight": 50,
           "price": 18
@@ -202,7 +202,7 @@
       ],
       "plastic": [
         {
-          "images": "https://picsum.photos/id/1030/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w4.jpg",
           "description": "PVC pipes",
           "minWeight": 40,
           "price": 12
@@ -210,7 +210,7 @@
       ],
       "glass": [
         {
-          "images": "https://picsum.photos/id/1031/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w5.jpg",
           "description": "Glass shards",
           "minWeight": 35,
           "price": 10
@@ -218,7 +218,7 @@
       ],
       "electronics": [
         {
-          "images": "https://picsum.photos/id/1032/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w6.jpg",
           "description": "Circuit boards",
           "minWeight": 25,
           "price": 45
@@ -226,7 +226,7 @@
       ],
       "textiles": [
         {
-          "images": "https://picsum.photos/id/1033/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w7.jpg",
           "description": "Denim",
           "minWeight": 12,
           "price": 14
@@ -247,7 +247,7 @@
     "selling_category": {
       "paper": [
         {
-          "images": "https://picsum.photos/id/1034/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w1.jpg",
           "description": "Books and magazines",
           "minWeight": 30,
           "price": 5
@@ -255,7 +255,7 @@
       ],
       "metal": [
         {
-          "images": "https://picsum.photos/id/1035/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w2.jpg",
           "description": "Brass items",
           "minWeight": 35,
           "price": 28
@@ -263,7 +263,7 @@
       ],
       "plastic": [
         {
-          "images": "https://picsum.photos/id/1036/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w3.jpg",
           "description": "Plastic bottles",
           "minWeight": 45,
           "price": 7
@@ -271,7 +271,7 @@
       ],
       "glass": [
         {
-          "images": "https://picsum.photos/id/1037/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w4.jpg",
           "description": "Glass containers",
           "minWeight": 40,
           "price": 13
@@ -279,7 +279,7 @@
       ],
       "electronics": [
         {
-          "images": "https://picsum.photos/id/1038/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w5.jpg",
           "description": "Electronic gadgets",
           "minWeight": 30,
           "price": 55
@@ -287,7 +287,7 @@
       ],
       "textiles": [
         {
-          "images": "https://picsum.photos/id/1039/200/300",
+          "images": "https://raw.githubusercontent.com/jahangirjehad/JSON-FIle/refs/heads/master/w7.jpg",
           "description": "Old curtains",
           "minWeight": 20,
           "price": 10
